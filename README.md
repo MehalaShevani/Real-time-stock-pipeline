@@ -33,7 +33,7 @@ Prerequisites
 Step 1: Clone the repository:
 
 git clone
-https://github.com/your-username/real-time-stock-pipeline.git
+https://github.com/MehalaShevani/real-time-stock-pipeline.git
 cd real-time-stock-pipeline
 
 Step 2: Set Up PostgreSQL database
